@@ -74,8 +74,9 @@ int main(int argc, char *argv[]) {
 
 ```
 
+## OUTPUT :
 
-
+![alt text](im/2.png)
 
 
 ## 2.To Write a C program that illustrates files locking
